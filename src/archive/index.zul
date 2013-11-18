@@ -23,6 +23,13 @@
 <!-- ================ -->
 
 <style>
+.z-west-header, .z-center-header, .z-east-header, .z-north-header, 
+.z-south-header {
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+}
+
 /* ### override zk style ### */
 .z-label {
 	font-size: 13px;
@@ -54,6 +61,10 @@ pre {
 }
 
 .button {
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+
 	width: 22px;
 	height: 19px;
 	padding: 5px;
