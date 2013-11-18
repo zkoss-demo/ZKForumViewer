@@ -6,3 +6,5 @@ javadoc
 Thumbs.db
 .project
 .children
+.settings/*
+target
