@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<zk>
+    <library-property>
+        <name>org.zkoss.web.util.resource.dir</name>
+        <value>/WEB-INF</value>
+    </library-property>
+</zk>
